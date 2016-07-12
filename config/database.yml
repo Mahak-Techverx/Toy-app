@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  database: toy_app
+  host: localhost
+  username: postgres
+  password: techverx
+
+
+production:
+  adapter: postgresql
+  database: toy_app
+  host: localhost
+  username: postgres
+  password: techverx
